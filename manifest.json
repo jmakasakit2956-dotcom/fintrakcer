@@ -1,7 +1,7 @@
 {
   "name": "FinTrack – Financial Tracker",
   "short_name": "FinTrack",
-  "description": "Modern minimalist financial tracker",
+  "description": "Personal Financial Tracker",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
